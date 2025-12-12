@@ -1498,7 +1498,7 @@
       "seaweed"
     ],
     "split": "val"
-  },  
+  },
   {
     "image": "images/train/img0166.jpg",
     "ingredients": [
@@ -9616,105 +9616,6 @@
     "split": "test"
   },
   {
-    "image": "images/train/img1269.jpg",
-    "ingredients": [
-      "chickpeas",
-      "pork",
-      "rice",
-      "tofu",
-      "udon"
-    ],
-    "split": "train"
-  },
-  {
-    "image": "images/train/img1270.jpg",
-    "ingredients": [
-      "gnocchi",
-      "oat",
-      "rice",
-      "tofu",
-      "udon"
-    ],
-    "split": "train"
-  },
-  {
-    "image": "images/train/img1272.jpg",
-    "ingredients": [
-      "chickpeas",
-      "gnocchi",
-      "scallion",
-      "tofu",
-      "udon"
-    ],
-    "split": "train"
-  },
-  {
-    "image": "images/train/img1273.jpg",
-    "ingredients": [
-      "curry",
-      "noodles",
-      "rice",
-      "tofu",
-      "udon"
-    ],
-    "split": "train"
-  },
-  {
-    "image": "images/train/img1274.jpg",
-    "ingredients": [
-      "chickpeas",
-      "curry",
-      "egg",
-      "noodles",
-      "udon"
-    ],
-    "split": "train"
-  },
-  {
-    "image": "images/train/img1275.jpg",
-    "ingredients": [
-      "chickpeas",
-      "garlic",
-      "oat",
-      "rice",
-      "sesame"
-    ],
-    "split": "train"
-  },
-  {
-    "image": "images/train/img1276.jpg",
-    "ingredients": [
-      "chickpeas",
-      "chili",
-      "curry",
-      "gnocchi",
-      "orange"
-    ],
-    "split": "train"
-  },
-  {
-    "image": "images/train/img1278.jpg",
-    "ingredients": [
-      "chili",
-      "noodles",
-      "spinach",
-      "tofu",
-      "udon"
-    ],
-    "split": "train"
-  },
-  {
-    "image": "images/train/img1279.jpg",
-    "ingredients": [
-      "curry",
-      "rice",
-      "sesame",
-      "tofu",
-      "udon"
-    ],
-    "split": "train"
-  },
-  {
     "image": "images/validation/img1280.jpg",
     "ingredients": [
       "scallion",
@@ -9737,17 +9638,6 @@
     "split": "test"
   },
   {
-    "image": "images/train/img1282.jpg",
-    "ingredients": [
-      "chicken",
-      "chickpeas",
-      "curry",
-      "rice",
-      "tofu"
-    ],
-    "split": "train"
-  },
-  {
     "image": "images/test/img1283.jpg",
     "ingredients": [
       "pork",
@@ -9756,61 +9646,6 @@
       "carrot"
     ],
     "split": "test"
-  },
-  {
-    "image": "images/train/img1284.jpg",
-    "ingredients": [
-      "garlic",
-      "oat",
-      "rice",
-      "scallion",
-      "sesame"
-    ],
-    "split": "train"
-  },
-  {
-    "image": "images/train/img1285.jpg",
-    "ingredients": [
-      "fish",
-      "salmon",
-      "shellfish",
-      "tuna",
-      "udon"
-    ],
-    "split": "train"
-  },
-  {
-    "image": "images/train/img1286.jpg",
-    "ingredients": [
-      "arugula",
-      "corn",
-      "cucumber",
-      "oat",
-      "rice"
-    ],
-    "split": "train"
-  },
-  {
-    "image": "images/train/img1287.jpg",
-    "ingredients": [
-      "curry",
-      "lamb",
-      "mushroom",
-      "pork",
-      "udon"
-    ],
-    "split": "train"
-  },
-  {
-    "image": "images/train/img1288.jpg",
-    "ingredients": [
-      "edamame",
-      "orange",
-      "rice",
-      "salmon",
-      "tofu"
-    ],
-    "split": "train"
   },
   {
     "image": "images/validation/img1289.jpg",
@@ -9828,83 +9663,6 @@
     "split": "test"
   },
   {
-    "image": "images/train/img1291.jpg",
-    "ingredients": [
-      "carrot",
-      "chickpeas",
-      "orange",
-      "rice",
-      "salmon"
-    ],
-    "split": "train"
-  },
-  {
-    "image": "images/train/img1292.jpg",
-    "ingredients": [
-      "chickpeas",
-      "edamame",
-      "noodles",
-      "pork",
-      "udon"
-    ],
-    "split": "train"
-  },
-  {
-    "image": "images/train/img1293.jpg",
-    "ingredients": [
-      "noodles",
-      "rice",
-      "spinach",
-      "tofu",
-      "udon"
-    ],
-    "split": "train"
-  },
-  {
-    "image": "images/train/img1294.jpg",
-    "ingredients": [
-      "rice",
-      "salmon",
-      "sesame",
-      "tofu",
-      "tuna"
-    ],
-    "split": "train"
-  },
-  {
-    "image": "images/train/img1295.jpg",
-    "ingredients": [
-      "cabbage",
-      "edamame",
-      "spinach",
-      "tofu",
-      "udon"
-    ],
-    "split": "train"
-  },
-  {
-    "image": "images/train/img1296.jpg",
-    "ingredients": [
-      "beef",
-      "noodles",
-      "pork",
-      "rice",
-      "udon"
-    ],
-    "split": "train"
-  },
-  {
-    "image": "images/train/img1297.jpg",
-    "ingredients": [
-      "almond",
-      "oat",
-      "rice",
-      "sesame",
-      "tofu"
-    ],
-    "split": "train"
-  },
-  {
     "image": "images/test/img1298.jpg",
     "ingredients": [
       "lettuce",
@@ -9913,39 +9671,6 @@
       "chicken"
     ],
     "split": "test"
-  },
-  {
-    "image": "images/train/img1299.jpg",
-    "ingredients": [
-      "beef",
-      "pork",
-      "salmon",
-      "tuna",
-      "udon"
-    ],
-    "split": "train"
-  },
-  {
-    "image": "images/train/img1300.jpg",
-    "ingredients": [
-      "chickpeas",
-      "chili",
-      "curry",
-      "gnocchi",
-      "tofu"
-    ],
-    "split": "train"
-  },
-  {
-    "image": "images/train/img1301.jpg",
-    "ingredients": [
-      "apple",
-      "arugula",
-      "soy",
-      "tofu",
-      "udon"
-    ],
-    "split": "train"
   },
   {
     "image": "images/validation/img1302.jpg",
@@ -9968,155 +9693,12 @@
     "split": "test"
   },
   {
-    "image": "images/train/img1304.jpg",
-    "ingredients": [
-      "garlic",
-      "oat",
-      "rice",
-      "soy",
-      "udon"
-    ],
-    "split": "train"
-  },
-  {
-    "image": "images/train/img1305.jpg",
-    "ingredients": [
-      "chickpeas",
-      "curry",
-      "noodles",
-      "rice",
-      "udon"
-    ],
-    "split": "train"
-  },
-  {
-    "image": "images/train/img1306.jpg",
-    "ingredients": [
-      "chickpeas",
-      "chili",
-      "curry",
-      "gnocchi",
-      "pasta"
-    ],
-    "split": "train"
-  },
-  {
-    "image": "images/train/img1307.jpg",
-    "ingredients": [
-      "curry",
-      "edamame",
-      "orange",
-      "salmon",
-      "tofu"
-    ],
-    "split": "train"
-  },
-  {
-    "image": "images/train/img1308.jpg",
-    "ingredients": [
-      "oat",
-      "rice",
-      "sesame",
-      "shrimp",
-      "udon"
-    ],
-    "split": "train"
-  },
-  {
-    "image": "images/train/img1309.jpg",
-    "ingredients": [
-      "corn",
-      "oat",
-      "rice",
-      "scallion",
-      "sesame"
-    ],
-    "split": "train"
-  },
-  {
-    "image": "images/train/img1311.jpg",
-    "ingredients": [
-      "arugula",
-      "chickpeas",
-      "gnocchi",
-      "pasta",
-      "tofu"
-    ],
-    "split": "train"
-  },
-  {
-    "image": "images/train/img1312.jpg",
-    "ingredients": [
-      "arugula",
-      "chicken",
-      "pork",
-      "salmon",
-      "tofu"
-    ],
-    "split": "train"
-  },
-  {
-    "image": "images/train/img1313.jpg",
-    "ingredients": [
-      "chicken",
-      "chickpeas",
-      "lamb",
-      "pork",
-      "potato"
-    ],
-    "split": "train"
-  },
-  {
-    "image": "images/train/img1314.jpg",
-    "ingredients": [
-      "arugula",
-      "bacon",
-      "beef",
-      "lamb",
-      "pork"
-    ],
-    "split": "train"
-  },
-  {
-    "image": "images/train/img1315.jpg",
-    "ingredients": [
-      "chicken",
-      "chickpeas",
-      "lamb",
-      "parsley",
-      "pork"
-    ],
-    "split": "train"
-  },
-  {
-    "image": "images/train/img1316.jpg",
-    "ingredients": [
-      "arugula",
-      "chicken",
-      "chickpeas",
-      "parsley",
-      "rice"
-    ],
-    "split": "train"
-  },
-  {
     "image": "images/validation/img1317.jpg",
     "ingredients": [
       "chicken",
       "cream"
     ],
     "split": "val"
-  },
-  {
-    "image": "images/train/img1318.jpg",
-    "ingredients": [
-      "bacon",
-      "beef",
-      "lamb",
-      "pork",
-      "sausage"
-    ],
-    "split": "train"
   },
   {
     "image": "images/validation/img1319.jpg",
@@ -10140,50 +9722,6 @@
     "split": "val"
   },
   {
-    "image": "images/train/img1322.jpg",
-    "ingredients": [
-      "curry",
-      "mango",
-      "salmon",
-      "tuna",
-      "zucchini"
-    ],
-    "split": "train"
-  },
-  {
-    "image": "images/train/img1323.jpg",
-    "ingredients": [
-      "chicken",
-      "ham",
-      "pork",
-      "salmon",
-      "tuna"
-    ],
-    "split": "train"
-  },
-  {
-    "image": "images/train/img1324.jpg",
-    "ingredients": [
-      "chicken",
-      "ginger",
-      "oil",
-      "orange",
-      "sesame"
-    ],
-    "split": "train"
-  },
-  {
-    "image": "images/train/img1325.jpg",
-    "ingredients": [
-      "bacon",
-      "chicken",
-      "pork",
-      "salmon",
-      "tofu"
-    ],
-    "split": "train"
-  },
-  {
     "image": "images/test/img1326.jpg",
     "ingredients": [
       "chicken",
@@ -10194,34 +9732,12 @@
     "split": "test"
   },
   {
-    "image": "images/train/img1327.jpg",
-    "ingredients": [
-      "chicken",
-      "garlic",
-      "ham",
-      "pork",
-      "tuna"
-    ],
-    "split": "train"
-  },
-  {
     "image": "images/test/img1328.jpg",
     "ingredients": [
       "chicken",
       "curry"
     ],
     "split": "test"
-  },
-  {
-    "image": "images/train/img1329.jpg",
-    "ingredients": [
-      "beef",
-      "chicken",
-      "curry",
-      "lamb",
-      "pork"
-    ],
-    "split": "train"
   },
   {
     "image": "images/test/img1330.jpg",
@@ -10234,67 +9750,12 @@
     "split": "test"
   },
   {
-    "image": "images/train/img1332.jpg",
-    "ingredients": [
-      "chicken",
-      "chickpeas",
-      "chili",
-      "curry",
-      "gnocchi"
-    ],
-    "split": "train"
-  },
-  {
-    "image": "images/train/img1333.jpg",
-    "ingredients": [
-      "carrot",
-      "chicken",
-      "gnocchi",
-      "orange",
-      "pasta"
-    ],
-    "split": "train"
-  },
-  {
-    "image": "images/train/img1334.jpg",
-    "ingredients": [
-      "chicken",
-      "chickpeas",
-      "ham",
-      "parsley",
-      "pork"
-    ],
-    "split": "train"
-  },
-  {
     "image": "images/validation/img1335.jpg",
     "ingredients": [
       "chicken",
       "orange"
     ],
     "split": "val"
-  },
-  {
-    "image": "images/train/img1336.jpg",
-    "ingredients": [
-      "chicken",
-      "curry",
-      "ham",
-      "lamb",
-      "pork"
-    ],
-    "split": "train"
-  },
-  {
-    "image": "images/train/img1337.jpg",
-    "ingredients": [
-      "gnocchi",
-      "noodles",
-      "pasta",
-      "tofu",
-      "udon"
-    ],
-    "split": "train"
   },
   {
     "image": "images/test/img1338.jpg",
@@ -10305,39 +9766,6 @@
       "onion"
     ],
     "split": "test"
-  },
-  {
-    "image": "images/train/img1339.jpg",
-    "ingredients": [
-      "chickpeas",
-      "chili",
-      "lamb",
-      "pork",
-      "tofu"
-    ],
-    "split": "train"
-  },
-  {
-    "image": "images/train/img1340.jpg",
-    "ingredients": [
-      "lamb",
-      "pork",
-      "rice",
-      "tuna",
-      "udon"
-    ],
-    "split": "train"
-  },
-  {
-    "image": "images/train/img1341.jpg",
-    "ingredients": [
-      "almond",
-      "arugula",
-      "bacon",
-      "oat",
-      "walnut"
-    ],
-    "split": "train"
   },
   {
     "image": "images/test/img1342.jpg",
@@ -10368,17 +9796,6 @@
     "split": "val"
   },
   {
-    "image": "images/train/img1345.jpg",
-    "ingredients": [
-      "arugula",
-      "chicken",
-      "parsley",
-      "pork",
-      "scallion"
-    ],
-    "split": "train"
-  },
-  {
     "image": "images/test/img1346.jpg",
     "ingredients": [
       "curry",
@@ -10390,34 +9807,12 @@
     "split": "test"
   },
   {
-    "image": "images/train/img1347.jpg",
-    "ingredients": [
-      "arugula",
-      "chickpeas",
-      "gnocchi",
-      "shellfish",
-      "spinach"
-    ],
-    "split": "train"
-  },
-  {
     "image": "images/test/img1348.jpg",
     "ingredients": [
       "chicken",
       "almond"
     ],
     "split": "test"
-  },
-  {
-    "image": "images/train/img1349.jpg",
-    "ingredients": [
-      "arugula",
-      "chickpeas",
-      "gnocchi",
-      "scallion",
-      "udon"
-    ],
-    "split": "train"
   },
   {
     "image": "images/test/img1351.jpg",
@@ -10429,17 +9824,6 @@
       "lamb"
     ],
     "split": "test"
-  },
-  {
-    "image": "images/train/img1352.jpg",
-    "ingredients": [
-      "avocado",
-      "broccoli",
-      "chickpeas",
-      "edamame",
-      "salmon"
-    ],
-    "split": "train"
   },
   {
     "image": "images/validation/img1353.jpg",
@@ -10470,83 +9854,6 @@
     "split": "val"
   },
   {
-    "image": "images/train/img1355.jpg",
-    "ingredients": [
-      "avocado",
-      "chicken",
-      "chickpeas",
-      "parsley",
-      "salmon"
-    ],
-    "split": "train"
-  },
-  {
-    "image": "images/train/img1356.jpg",
-    "ingredients": [
-      "chicken",
-      "curry",
-      "pork",
-      "rice",
-      "shrimp"
-    ],
-    "split": "train"
-  },
-  {
-    "image": "images/train/img1357.jpg",
-    "ingredients": [
-      "arugula",
-      "chicken",
-      "chickpeas",
-      "curry",
-      "pork"
-    ],
-    "split": "train"
-  },
-  {
-    "image": "images/train/img1358.jpg",
-    "ingredients": [
-      "chicken",
-      "curry",
-      "pork",
-      "sesame",
-      "udon"
-    ],
-    "split": "train"
-  },
-  {
-    "image": "images/train/img1359.jpg",
-    "ingredients": [
-      "chicken",
-      "chickpeas",
-      "ham",
-      "lamb",
-      "pork"
-    ],
-    "split": "train"
-  },
-  {
-    "image": "images/train/img1360.jpg",
-    "ingredients": [
-      "chicken",
-      "ham",
-      "lamb",
-      "parsley",
-      "pork"
-    ],
-    "split": "train"
-  },
-  {
-    "image": "images/train/img1361.jpg",
-    "ingredients": [
-      "bacon",
-      "chicken",
-      "chickpeas",
-      "lamb",
-      "pork"
-    ],
-    "split": "train"
-  },
-  {
     "image": "images/test/img1362.jpg",
     "ingredients": [
       "broccoli",
@@ -10557,28 +9864,6 @@
     "split": "test"
   },
   {
-    "image": "images/train/img1363.jpg",
-    "ingredients": [
-      "chickpeas",
-      "chili",
-      "gnocchi",
-      "pasta",
-      "shrimp"
-    ],
-    "split": "train"
-  },
-  {
-    "image": "images/train/img1364.jpg",
-    "ingredients": [
-      "chicken",
-      "ham",
-      "lamb",
-      "parsley",
-      "pork"
-    ],
-    "split": "train"
-  },
-  {
     "image": "images/test/img1365.jpg",
     "ingredients": [
       "chicken",
@@ -10586,17 +9871,6 @@
       "parsley"
     ],
     "split": "test"
-  },
-  {
-    "image": "images/train/img1366.jpg",
-    "ingredients": [
-      "arugula",
-      "chickpeas",
-      "lamb",
-      "pork",
-      "scallion"
-    ],
-    "split": "train"
   },
   {
     "image": "images/test/img1367.jpg",
@@ -10609,28 +9883,6 @@
     "split": "test"
   },
   {
-    "image": "images/train/img1368.jpg",
-    "ingredients": [
-      "chicken",
-      "garlic",
-      "ham",
-      "lamb",
-      "pork"
-    ],
-    "split": "train"
-  },
-  {
-    "image": "images/train/img1369.jpg",
-    "ingredients": [
-      "asparagus",
-      "chickpeas",
-      "edamame",
-      "gnocchi",
-      "udon"
-    ],
-    "split": "train"
-  },
-  {
     "image": "images/validation/img1370.jpg",
     "ingredients": [
       "mushroom",
@@ -10639,45 +9891,12 @@
     "split": "val"
   },
   {
-    "image": "images/train/img1371.jpg",
-    "ingredients": [
-      "crab",
-      "gnocchi",
-      "pasta",
-      "shellfish",
-      "udon"
-    ],
-    "split": "train"
-  },
-  {
-    "image": "images/train/img1372.jpg",
-    "ingredients": [
-      "noodles",
-      "pasta",
-      "rice",
-      "shrimp",
-      "udon"
-    ],
-    "split": "train"
-  },
-  {
     "image": "images/test/img1373.jpg",
     "ingredients": [
       "lemon",
       "shellfish"
     ],
     "split": "test"
-  },
-  {
-    "image": "images/train/img1374.jpg",
-    "ingredients": [
-      "chickpeas",
-      "gnocchi",
-      "pasta",
-      "shellfish",
-      "shrimp"
-    ],
-    "split": "train"
   },
   {
     "image": "images/validation/img1375.jpg",
@@ -10708,28 +9927,6 @@
     "split": "val"
   },
   {
-    "image": "images/train/img1378.jpg",
-    "ingredients": [
-      "crab",
-      "shellfish",
-      "shrimp",
-      "squid",
-      "udon"
-    ],
-    "split": "train"
-  },
-  {
-    "image": "images/train/img1379.jpg",
-    "ingredients": [
-      "fish",
-      "parsley",
-      "salmon",
-      "shellfish",
-      "udon"
-    ],
-    "split": "train"
-  },
-  {
     "image": "images/validation/img1380.jpg",
     "ingredients": [
       "carrot",
@@ -10748,17 +9945,6 @@
     "split": "val"
   },
   {
-    "image": "images/train/img1382.jpg",
-    "ingredients": [
-      "chili",
-      "pasta",
-      "rice",
-      "shellfish",
-      "shrimp"
-    ],
-    "split": "train"
-  },
-  {
     "image": "images/test/img1383.jpg",
     "ingredients": [
       "shellfish",
@@ -10774,144 +9960,12 @@
     "split": "val"
   },
   {
-    "image": "images/train/img1385.jpg",
-    "ingredients": [
-      "chickpeas",
-      "gnocchi",
-      "pasta",
-      "shellfish",
-      "shrimp"
-    ],
-    "split": "train"
-  },
-  {
-    "image": "images/train/img1386.jpg",
-    "ingredients": [
-      "noodles",
-      "pasta",
-      "shellfish",
-      "tomato",
-      "udon"
-    ],
-    "split": "train"
-  },
-  {
-    "image": "images/train/img1387.jpg",
-    "ingredients": [
-      "crab",
-      "garlic",
-      "scallion",
-      "shellfish",
-      "shrimp"
-    ],
-    "split": "train"
-  },
-  {
-    "image": "images/train/img1388.jpg",
-    "ingredients": [
-      "noodles",
-      "scallion",
-      "shellfish",
-      "squid",
-      "udon"
-    ],
-    "split": "train"
-  },
-  {
-    "image": "images/train/img1389.jpg",
-    "ingredients": [
-      "almond",
-      "crab",
-      "garlic",
-      "shellfish",
-      "walnut"
-    ],
-    "split": "train"
-  },
-  {
-    "image": "images/train/img1390.jpg",
-    "ingredients": [
-      "crab",
-      "fish",
-      "rice",
-      "shellfish",
-      "shrimp"
-    ],
-    "split": "train"
-  },
-  {
-    "image": "images/train/img1391.jpg",
-    "ingredients": [
-      "chickpeas",
-      "chili",
-      "curry",
-      "pork",
-      "tofu"
-    ],
-    "split": "train"
-  },
-  {
-    "image": "images/train/img1392.jpg",
-    "ingredients": [
-      "fish",
-      "gnocchi",
-      "rice",
-      "shellfish",
-      "shrimp"
-    ],
-    "split": "train"
-  },
-  {
-    "image": "images/train/img1393.jpg",
-    "ingredients": [
-      "arugula",
-      "salmon",
-      "spinach",
-      "tofu",
-      "tuna"
-    ],
-    "split": "train"
-  },
-  {
-    "image": "images/train/img1394.jpg",
-    "ingredients": [
-      "bacon",
-      "ham",
-      "lamb",
-      "pork",
-      "tuna"
-    ],
-    "split": "train"
-  },
-  {
-    "image": "images/train/img1395.jpg",
-    "ingredients": [
-      "crab",
-      "gnocchi",
-      "shellfish",
-      "shrimp",
-      "zucchini"
-    ],
-    "split": "train"
-  },
-  {
     "image": "images/validation/img1396.jpg",
     "ingredients": [
       "soy",
       "shrimp"
     ],
     "split": "val"
-  },
-  {
-    "image": "images/train/img1397.jpg",
-    "ingredients": [
-      "crab",
-      "fish",
-      "salmon",
-      "shellfish",
-      "shrimp"
-    ],
-    "split": "train"
   },
   {
     "image": "images/test/img1398.jpg",
@@ -10936,78 +9990,12 @@
     "split": "test"
   },
   {
-    "image": "images/train/img1400.jpg",
-    "ingredients": [
-      "crab",
-      "fish",
-      "salmon",
-      "shellfish",
-      "shrimp"
-    ],
-    "split": "train"
-  },
-  {
-    "image": "images/train/img1401.jpg",
-    "ingredients": [
-      "rice",
-      "salmon",
-      "sesame",
-      "tuna",
-      "udon"
-    ],
-    "split": "train"
-  },
-  {
     "image": "images/validation/img1402.jpg",
     "ingredients": [
       "lemon",
       "shellfish"
     ],
     "split": "val"
-  },
-  {
-    "image": "images/train/img1403.jpg",
-    "ingredients": [
-      "arugula",
-      "parsley",
-      "salmon",
-      "shellfish",
-      "spinach"
-    ],
-    "split": "train"
-  },
-  {
-    "image": "images/train/img1404.jpg",
-    "ingredients": [
-      "fish",
-      "salmon",
-      "shellfish",
-      "tuna",
-      "udon"
-    ],
-    "split": "train"
-  },
-  {
-    "image": "images/train/img1406.jpg",
-    "ingredients": [
-      "chickpeas",
-      "salmon",
-      "shellfish",
-      "shrimp",
-      "tuna"
-    ],
-    "split": "train"
-  },
-  {
-    "image": "images/train/img1407.jpg",
-    "ingredients": [
-      "garlic",
-      "gnocchi",
-      "pasta",
-      "shellfish",
-      "shrimp"
-    ],
-    "split": "train"
   },
   {
     "image": "images/validation/img1408.jpg",
@@ -11027,28 +10015,6 @@
       "egg"
     ],
     "split": "val"
-  },
-  {
-    "image": "images/train/img1410.jpg",
-    "ingredients": [
-      "chickpeas",
-      "crab",
-      "salmon",
-      "shellfish",
-      "shrimp"
-    ],
-    "split": "train"
-  },
-  {
-    "image": "images/train/img1411.jpg",
-    "ingredients": [
-      "curry",
-      "fish",
-      "lemon",
-      "salmon",
-      "tuna"
-    ],
-    "split": "train"
   },
   {
     "image": "images/validation/img1412.jpg",
@@ -11074,72 +10040,6 @@
     "split": "val"
   },
   {
-    "image": "images/train/img1416.jpg",
-    "ingredients": [
-      "crab",
-      "fish",
-      "pasta",
-      "shellfish",
-      "shrimp"
-    ],
-    "split": "train"
-  },
-  {
-    "image": "images/train/img1417.jpg",
-    "ingredients": [
-      "crab",
-      "fish",
-      "salmon",
-      "seaweed",
-      "shellfish"
-    ],
-    "split": "train"
-  },
-  {
-    "image": "images/train/img1418.jpg",
-    "ingredients": [
-      "onion",
-      "rice",
-      "scallion",
-      "seaweed",
-      "tofu"
-    ],
-    "split": "train"
-  },
-  {
-    "image": "images/train/img1419.jpg",
-    "ingredients": [
-      "crab",
-      "fish",
-      "garlic",
-      "scallion",
-      "shellfish"
-    ],
-    "split": "train"
-  },
-  {
-    "image": "images/train/img1420.jpg",
-    "ingredients": [
-      "arugula",
-      "gnocchi",
-      "scallion",
-      "shellfish",
-      "tuna"
-    ],
-    "split": "train"
-  },
-  {
-    "image": "images/train/img1421.jpg",
-    "ingredients": [
-      "asparagus",
-      "avocado",
-      "pasta",
-      "rice",
-      "zucchini"
-    ],
-    "split": "train"
-  },
-  {
     "image": "images/validation/img1422.jpg",
     "ingredients": [
       "salmon",
@@ -11150,28 +10050,6 @@
       "rice"
     ],
     "split": "val"
-  },
-  {
-    "image": "images/train/img1423.jpg",
-    "ingredients": [
-      "chickpeas",
-      "fish",
-      "gnocchi",
-      "salmon",
-      "shellfish"
-    ],
-    "split": "train"
-  },
-  {
-    "image": "images/train/img1425.jpg",
-    "ingredients": [
-      "gnocchi",
-      "shellfish",
-      "shrimp",
-      "squid",
-      "udon"
-    ],
-    "split": "train"
   },
   {
     "image": "images/validation/img1426.jpg",
@@ -11205,16 +10083,5 @@
       "tomato"
     ],
     "split": "val"
-  },
-  {
-    "image": "images/train/img1429.jpg",
-    "ingredients": [
-      "crab",
-      "gnocchi",
-      "parsley",
-      "salmon",
-      "shellfish"
-    ],
-    "split": "train"
   }
 ]
