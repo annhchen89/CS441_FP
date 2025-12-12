@@ -1,0 +1,1 @@
+All images were collected via the Pixabay API and Unsplash API.
