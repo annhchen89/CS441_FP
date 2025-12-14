@@ -3589,17 +3589,6 @@
     "split": "train"
   },
   {
-    "image": "images/train/img0452.jpg",
-    "ingredients": [
-      "curry",
-      "rice",
-      "scallion",
-      "tofu",
-      "udon"
-    ],
-    "split": "train"
-  },
-  {
     "image": "images/train/img0453.jpg",
     "ingredients": [
       "egg",
